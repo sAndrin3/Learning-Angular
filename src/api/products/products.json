@@ -1,0 +1,42 @@
+[
+    {
+        "productId": 1,
+        "productName": "RoadBike",
+        "productCode": "GDN-001",
+        "releaseDate": "May 4th 2024",
+        "description": "Super light",
+        "price": 3000,
+        "starRating": 4.5,
+        "imageUrl": "https://imgs.search.brave.com/gM6XtY60KoxSaULnx2G6vyG3UbcopLgAijNzbqY2RPE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly92aXJl/c3ZlbG8uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzA2/L0ZhY3Rvci1Pc3Ry/by1WQU0tQmxhY2st/YW5kLVdoaXRlLUN1/c3RvbS1Db21wbGV0/ZS1CaWtlLTEwMjR4/NjgzLmpwZw"
+    },
+    {
+        "productId": 2,
+        "productName": "GravelBike",
+        "productCode": "GCN-001",
+        "releaseDate": "May 4th 2024",
+        "description": "Highly durable",
+        "price": 3100,
+        "starRating": 4.8,
+        "imageUrl": "https://imgs.search.brave.com/2CC7oAe9WBM_OCew70XUBvYawMQ8gQtM4SXdm88om2M/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9iaWN5/Y2xld2FyZWhvdXNl/LmNvbS9jZG4vc2hv/cC9maWxlcy9NWTIz/UmV2b2x0QWR2YW5j/ZWQxX0NvbG9yQUNv/cmRvdmFuLmpwZz92/PTE2ODI3OTQ2NjMm/d2lkdGg9MTk0Ng"
+    },
+    {
+        "productId": 3,
+        "productName": "TTBike",
+        "productCode": "GTN-001",
+        "releaseDate": "May 4th 2024",
+        "description": "Aero",
+        "price": 3900,
+        "starRating": 5.0,
+        "imageUrl": "https://imgs.search.brave.com/0jIEzcR1ISpZYRwGpFsG4YRQA-QgluCA-TsIBuQqoqQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZXIuaW1n/aXgubmV0L3diL1RF/M3cwTEdpMTctbmFN/S1RKRUZ3VFZ5cm8u/anBnP2F1dG89Zm9y/bWF0JmZtPXBqcGcm/Zml0PWZpbGxtYXgm/dz00MDAmaD0zMDAm/cz04YzY4MjFkYzI4/ODdlY2ViYjFmYTk4/MDRiOGM5YjQ5Ng"
+    },
+    {
+        "productId": 4,
+        "productName": "MountainBike",
+        "productCode": "GBN-001",
+        "releaseDate": "May 4th 2024",
+        "description": "King of the Mountains",
+        "price": 2900,
+        "starRating": 4.0,
+        "imageUrl": "https://imgs.search.brave.com/XPcoe6F9nnZ1Wz5EZN7R2FI7crl2bmSb2_P9aV3VOtQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/YmljeWNsZXN1cGVy/c3RvcmUuY29tLmF1/L2Nkbi9zaG9wL3By/b2R1Y3RzL3Njb3R0/LWdlbml1cy05NDAt/MjAyMy1hbmdsZV82/MDB4LmpwZz92PTE2/Njc0NTU3NzY"
+    }
+]
